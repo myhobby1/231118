@@ -1,0 +1,9 @@
+#include <stdio.h>
+
+int main()
+
+{
+  printf("잘암기가안되네\n");
+
+  return 0;
+}
