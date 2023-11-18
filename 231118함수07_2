@@ -1,0 +1,13 @@
+#include <stdio.h>
+
+int main()
+{
+  char x,y;
+ x= a;
+ y= b;
+  
+  scanf("%c%c", &x,&yS);
+  printf("%c%c, y,x);
+
+  return 0;
+}
