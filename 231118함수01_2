@@ -1,0 +1,13 @@
+#include <stdio.h>#include <stdio.h>
+#define max(firstNumber,secondNumber)
+    ? (firstNumber):(secondNumber))
+
+int main()
+{
+  int i, j;
+
+
+printf("두수를입력하시오");
+scanf("%d %d",&i,&j);
+printf("\n max=%d\n",max(i,j));
+}
